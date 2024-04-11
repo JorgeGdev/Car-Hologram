@@ -1,0 +1,11 @@
+Model Information:
+* title:	Generic Coupe "Azura"
+* source:	https://sketchfab.com/3d-models/generic-coupe-azura-2e1a3699de7e4f688d328dc005ef1aac
+* author:	mk2design (https://sketchfab.com/mk2design)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Generic Coupe "Azura"" (https://sketchfab.com/3d-models/generic-coupe-azura-2e1a3699de7e4f688d328dc005ef1aac) by mk2design (https://sketchfab.com/mk2design) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
